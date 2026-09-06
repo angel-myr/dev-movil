@@ -1,6 +1,87 @@
+# ==============================
+# Android Studio / IntelliJ
+# ==============================
+
+.idea/
 *.iml
-.gradle
-/local.properties
-/.idea
+*.iws
+*.ipr
+
+# Local configuration
+local.properties
+
+# ==============================
+# Gradle
+# ==============================
+
+.gradle/
+build/
+**/build/
+
+# ==============================
+# Android
+# ==============================
+
+captures/
+.externalNativeBuild/
+.cxx/
+
+# APK / AAB
+*.apk
+*.ap_
+*.aab
+
+# Mapping / build outputs
+mapping.txt
+
+# ==============================
+# Kotlin
+# ==============================
+
+.kotlin/
+*.kotlin_module
+
+# ==============================
+# Java
+# ==============================
+
+*.class
+
+# ==============================
+# OS generated files
+# ==============================
+
 .DS_Store
-/build
+Thumbs.db
+desktop.ini
+
+# ==============================
+# Temporary files
+# ==============================
+
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# ==============================
+# Generated / cache files
+# ==============================
+
+out/
+tmp/
+
+# ==============================
+# Firebase / Google
+# ==============================
+
+google-services.json
+
+# ==============================
+# Secrets / environment
+# ==============================
+
+.env
+.env.*
+!.env.example

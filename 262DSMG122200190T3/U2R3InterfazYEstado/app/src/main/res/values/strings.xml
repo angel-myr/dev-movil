@@ -1,0 +1,25 @@
+<resources>
+
+    <string name="app_name">U2R3InterfazYEstado</string>
+
+    <!-- Obra 1 -->
+    <string name="artwork_1_title">La noche estrellada</string>
+    <string name="artwork_1_artist">Vincent van Gogh</string>
+    <string name="artwork_1_year">1889</string>
+
+    <!-- Obra 2 -->
+    <string name="artwork_2_title">La Mona Lisa</string>
+    <string name="artwork_2_artist">Leonardo da Vinci</string>
+    <string name="artwork_2_year">1503</string>
+
+    <!-- Obra 3 -->
+    <string name="artwork_3_title">El grito</string>
+    <string name="artwork_3_artist">Edvard Munch</string>
+    <string name="artwork_3_year">1893</string>
+
+    <!-- Accesibilidad -->
+    <string name="artwork_1_description">La noche estrellada de Vincent van Gogh</string>
+    <string name="artwork_2_description">La Mona Lisa de Leonardo da Vinci</string>
+    <string name="artwork_3_description">El grito de Edvard Munch</string>
+
+</resources>
